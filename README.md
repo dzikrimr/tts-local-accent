@@ -1,18 +1,10 @@
-# Aksa TTS - Indonesian Text-to-Speech with Regional Accents
-
 <div align="center">
 
-![Aksa TTS](https://img.shields.io/badge/Aksa-TTS-blue)
-![Python](https://img.shields.io/badge/Python-3.8+-green.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
-
+# Aksa TTS - Indonesian Text-to-Speech with Regional Accents
 **A powerful Indonesian Text-to-Speech system with support for various regional accents**
-
-[Features](#features) • [Installation](#installation) • [Usage](#usage) • [API Documentation](#api-documentation) • [Supported Accents](#supported-accents) • [Contributing](#contributing)
 
 </div>
 
----
 
 ## 📖 About
 
