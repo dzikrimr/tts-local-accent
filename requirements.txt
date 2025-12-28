@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+
+torch
+torchvision
+torchaudio
+chatterbox-tts==0.1.1
+transformers==4.44.2
+peft==0.11.1
+ml_dtypes
+
+numpy
+pydub
+huggingface_hub
+safetensors
+ffmpeg-python
